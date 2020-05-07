@@ -3,14 +3,14 @@
 #include<string>
 using namespace std;
 
-int main()[
+int main(){
 
 int M = 1000;
 int D = 500;
 int C = 100;
 int L = 50;
 int X = 10;
-int v = 5;
+int V = 5;
 int I = 1;
 
 int num = 0;
